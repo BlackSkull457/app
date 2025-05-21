@@ -1,0 +1,3 @@
+not much change now it has
+-autosave password from google
+-swipe to refresh
